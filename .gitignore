@@ -1,0 +1,9 @@
+# Never commit secrets or keys
+*.pem
+*.key
+id_*
+.env
+*.pcap
+# Python
+__pycache__/
+venv/
