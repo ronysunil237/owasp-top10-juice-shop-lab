@@ -15,7 +15,7 @@ Show practical web application security testing skills: finding vulnerabilities,
 All testing was done only against my own local, intentionally vulnerable lab. Testing systems you do not own is illegal under the UK Computer Misuse Act 1990.
 
 ## Status
-- [ ] Lab setup
+- [x] Lab setup
 - [ ] A01 Broken Access Control
 - [ ] A02 Security Misconfiguration
 - [ ] A03 Software Supply Chain Failures
