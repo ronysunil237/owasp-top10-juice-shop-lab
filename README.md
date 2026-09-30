@@ -16,7 +16,7 @@ All testing was done only against my own local, intentionally vulnerable lab. Te
 
 ## Status
 - [x] Lab setup
-- [ ] A01 Broken Access Control
+- [x] A01 Broken Access Control
 - [ ] A02 Security Misconfiguration
 - [ ] A03 Software Supply Chain Failures
 - [ ] A04 Cryptographic Failures
